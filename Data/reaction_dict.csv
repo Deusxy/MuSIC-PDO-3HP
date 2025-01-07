@@ -1,0 +1,63 @@
+Reaction,Equation
+R_Campodonico_118,3hppnl_c + nadh_c + h_c --> 13ppd_c + nad_c
+R_Campodonico_119,3hpp_c + nadh_c + h_c --> 3hppnl_c + nad_c + h2o_c
+R_Campodonico_120,3hpp_c + nadph_c + h_c --> 3hppnl_c + nadp_c + h2o_c
+R_Campodonico_121,3hppnl_c + nadph_c + h_c --> 13ppd_c + nadp_c
+R_Campodonico_122,ghb_c + o2_c --> 3hppnl_c + h2o_c + co2_c
+R_Campodonico_53,glyc_c --> 3hppnl_c + h2o_c
+R_Campodonico_123,etoh_c + h2o_c --> 13ppd_c
+R_Campodonico_124,12ppd__R_c --> etoh_c + h2o_c
+R_Campodonico_125,mal__D_c --> 13ppd_c + co2_c
+R_Campodonico_126,mal__D_c + nadh_c + h_c --> mal__D_c + nad_c
+R_Campodonico_127,mal__D_c + nadph_c + h_c --> mal__D_c + nadp_c + h2o_c
+R_Campodonico_49,glx_c + accoa_c + h2o_c --> mal__D_c + coa_c
+R_Campodonico_128,mal__D_c + nadph_c + h_c --> mal__D_c + nadp_c
+R_Campodonico_50,ac_c + glx_c --> mal__D_c
+R_Campodonico_51,fum_c + h2o_c --> mal__D_c
+R_Campodonico_129,mal__D_c --> 3hppnl_c + co2_c
+R_Campodonico_47,oaa_c + nadh_c + h_c --> mal__D_c + nad_c
+R_Campodonico_48,oaa_c + nadph_c + h_c --> mal__D_c + nadp_c
+R_Campodonico_130,ppal_c + nadh_c + h_c --> 3hppnl_c + nad_c
+R_Campodonico_131,msa_c + nadh_c + h_c --> ppal_c + nad_c + h2o_c
+R_Campodonico_132,msa_c + nadph_c + h_c --> ppal_c + nadp_c + h2o_c
+R_Campodonico_133,ppal_c + nadph_c + h_c --> 3hppnl_c + nadp_c
+R_Campodonico_134,glyald_c --> ppal_c + h2o_c
+R_Campodonico_135,ppap_c + nadh_c + h_c --> 3hppnl_c + nad_c + pi_c
+R_Campodonico_136,3hpp_c + pi_c --> ppap_c + h2o_c
+R_Campodonico_137,ppap_c + nadph_c + h_c --> 3hppnl_c + nadp_c + pi_c
+R_Campodonico_43,msa_c + nadh_c + h_c --> 3hpp_c + nad_c
+R_Campodonico_44,msa_c + nadph_c + h_c --> 3hpp_c + nadp_c
+R_Campodonico_45,ac_c + mlthf_c + h2o_c --> 3hpp_c + thf_c
+R_Campodonico_46,mal__D_c --> 3hpp_c + co2_c
+R_Campodonico_52,3hppnl_c + nad_c + h2o_c --> 3hpp_c + nadh_c + h_c
+R_Campodonico_54,3hppnl_c + nadp_c + h2o_c --> 3hpp_c + nadph_c + h_c
+R_Campodonico_55,ac_c + fald_c --> 3hpp_c
+R_Campodonico_56,glyclt_c + nadh_c + h_c --> ac_c + nad_c + h2o_c
+R_Campodonico_57,glyc__R_c --> glyclt_c + fald_c
+R_Campodonico_58,3amac_c + h2o_c --> 3hpp_c
+R_Campodonico_3,b2coa_c + succ_c --> 3amac_c + succoa_c
+R_Campodonico_4,ppcoa_c + o2_c --> b2coa_c + h2o2_c
+R_Campodonico_5,b2coa_c + ac_c --> 3amac_c + accoa_c
+R_Campodonico_6,b2coa_c + h2o_c --> 3amac_c + coa_c
+R_Campodonico_59,glx_c + nadh_c + h_c --> glyclt_c + nad_c
+R_Campodonico_60,hpyr_c --> glx_c + fald_c
+R_Campodonico_61,glx_c + nadph_c + h_c --> glyclt_c + nadp_c
+R_Campodonico_62,gcald_c + nad_c + h2o_c --> glyclt_c + nadh_c + h_c
+R_Campodonico_63,glyald_c --> gcald_c + fald_c
+R_Campodonico_64,gcald_c + nadp_c + h2o_c --> glyclt_c + nadph_c + h_c
+R_Campodonico_65,2pglyc_c + h2o_c --> glyclt_c + pi_c
+R_Campodonico_66,2pg_c --> 2pglyc_c + fald_c
+R_Campodonico_67,3hppcoa_c + h2o_c --> 3hpp_c + coa_c
+R_Campodonico_68,laccoa_c --> 3hppcoa_c
+R_Campodonico_15,lald__L_c + coa_c + atp_c --> laccoa_c + adp_c + pi_c
+R_Campodonico_69,acrlcoa_c + h2o_c --> 3hppcoa_c
+R_Campodonico_14,laccoa_c --> acrlcoa_c + h2o_c
+R_Campodonico_70,ppcoa_c + o2_c --> acrlcoa_c + h2o2_c
+R_Campodonico_197,acryl_c + h2o_c --> 3hpp_c
+R_Campodonico_13,acrlcoa_c + succ_c --> acryl_c + succoa_c
+R_Campodonico_16,acrlcoa_c + ac_c --> acryl_c + accoa_c
+R_Campodonico_17,acrlcoa_c + h2o_c --> acryl_c + coa_c
+3hpp_tr, 3hpp_e <-> 3hpp_c
+13ppd_tr,13ppd_e <-> 13ppd_c
+EX_13ppd_e,13ppd_e --> 
+EX_3hpp_e, 3hpp_e -->

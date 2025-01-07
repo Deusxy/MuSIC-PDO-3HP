@@ -1,0 +1,5 @@
+Reaction ID,Reaction Equation,Flux Change,Pathway,Model Name,Condition
+R_Campodonico_126,mal__D_c + nadh_c + h_c --> mal__D_c + nad_c,0.037498,[125 126 127  49],Model_iMM904
+R_Campodonico_126,mal__D_c + nadh_c + h_c --> mal__D_c + nad_c,0.037498,[125 126 127  50],Model_iMM904
+R_Campodonico_126,mal__D_c + nadh_c + h_c --> mal__D_c + nad_c,0.037498,[125 126 127  51],Model_iMM904
+R_Campodonico_54,3hppnl_c + nadp_c + h2o_c --> 3hpp_c + nadph_c + h_c,0.037498,[54 53],Model_iMM904

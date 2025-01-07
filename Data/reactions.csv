@@ -1,0 +1,200 @@
+0
+ala_B_c --> ACAc + h2o_c
+3hpp_c + nh4_c --> ala_B_c + h2o_c
+3amac_c + nh4_c --> ACAc + h2o_c
+b2coa_c + succ_c --> 3amac_c + succoa_c
+ppcoa_c + o2_c --> b2coa_c + h2o2_c
+b2coa_c + ac_c --> 3amac_c + accoa_c
+b2coa_c + h2o_c --> 3amac_c + coa_c
+oxam_c + nadh_c + h_c --> ACAc + nad_c + h2o_c
+op4en_c + nh4_c --> oxam_c + h2o_c
+pep_c + h2o_c --> op4en_c + pi_c
+glyc__R_c --> op4en_c + h2o_c
+glyald_c --> oxam_c + h2o_c
+glyc__R_c + nh4_c --> glyald_c + h2o_c
+acrlcoa_c + succ_c --> acryl_c + succoa_c
+laccoa_c --> acrlcoa_c + h2o_c
+lald__L_c + coa_c + atp_c --> laccoa_c + adp_c + pi_c
+acrlcoa_c + ac_c --> acryl_c + accoa_c
+acrlcoa_c + h2o_c --> acryl_c + coa_c
+acac_c + h2o_c --> ACAC_c + ac_c
+alac-S_c --> acac_c + h2o_c
+op4en_0_3548_1_c + nadh_c + h_c --> ACAC_c + nad_c + h2o_c
+acald_c + nad_c + h2o_c --> ACAC_c + nadh_c + h_c
+lald_D_c --> acald_c + h2o_c
+b2coa_c + nadh_c + h_c --> acald_c + nad_c + coa_c
+b2coa_c + nadph_c + h_c --> acald_c + nadp_c + coa_c
+fum_0_0870_2_c --> acald_c + co2_c
+aspsa_c --> fum_0_0870_2_c + nh4_c
+2aobut_0_1026_2_c --> acac_c + nh4_c
+ala_D_c + accoa_c --> 2aobut_0_1026_2_c + coa_c
+3amac_0_4615_1_c + h2o_c --> ACAC_c + meoh_c
+lac_D_0_2692_2_c --> 3amac_0_4615_1_c + h2o_c
+lac_D_c + amet_c --> lac_D_0_2692_2_c + ahcys_c
+chtbs_0_2365_1_c + udp_c --> ACAC_c + uacgam_c
+chtbs_0_1827_2_c --> chtbs_0_2365_1_c + nh4_c
+acgal_c + ala_B_c --> chtbs_0_1827_2_c + h2o_c
+acgam6p_c + h2o_c --> acgal_c + pi_c
+chtbs_0_2365_1_c + udp_c --> ACAC_c + uacmam_c
+ppa_0_3158_2_c + o2_c --> acald_c + h2o_c + co2_c
+ppcoa_0_0137_3_c + succ_c --> ppa_0_3158_2_c + succoa_c
+btcoa_c + o2_c --> ppcoa_0_0137_3_c + h2o2_c
+ppcoa_0_0137_3_c + ac_c --> ppa_0_3158_2_c + accoa_c
+3hbcoa_c --> ppcoa_0_0137_3_c + h2o_c
+ppcoa_0_0137_3_c + h2o_c --> ppa_0_3158_2_c + coa_c
+msa_c + nadh_c + h_c --> 3hpp_c + nad_c
+msa_c + nadph_c + h_c --> 3hpp_c + nadp_c
+ac_c + mlthf_c + h2o_c --> 3hpp_c + thf_c
+mal__D_c --> 3hpp_c + co2_c
+oaa_c + nadh_c + h_c --> mal__D_c + nad_c
+oaa_c + nadph_c + h_c --> mal__D_c + nadp_c
+glx_c + accoa_c + h2o_c --> mal__D_c + coa_c
+ac_c + glx_c --> mal__D_c
+fum_c + h2o_c --> mal__D_c
+3hppnl_c + nad_c + h2o_c --> 3hpp_c + nadh_c + h_c
+glyc_c --> 3hppnl_c + h2o_c
+3hppnl_c + nadp_c + h2o_c --> 3hpp_c + nadph_c + h_c
+ac_c + fald_c --> 3hpp_c
+glyclt_c + nadh_c + h_c --> ac_c + nad_c + h2o_c
+glyc__R_c --> glyclt_c + fald_c
+3amac_c + h2o_c --> 3hpp_c
+glx_c + nadh_c + h_c --> glyclt_c + nad_c
+hpyr_c --> glx_c + fald_c
+glx_c + nadph_c + h_c --> glyclt_c + nadp_c
+gcald_c + nad_c + h2o_c --> glyclt_c + nadh_c + h_c
+glyald_c --> gcald_c + fald_c
+gcald_c + nadp_c + h2o_c --> glyclt_c + nadph_c + h_c
+2pglyc_c + h2o_c --> glyclt_c + pi_c
+2pg_c --> 2pglyc_c + fald_c
+3hppcoa_c + h2o_c --> 3hpp_c + coa_c
+laccoa_c --> 3hppcoa_c
+acrlcoa_c + h2o_c --> 3hppcoa_c
+ppcoa_c + o2_c --> acrlcoa_c + h2o2_c
+ppal_c + nadh_c + h_c --> 1POH_c + nad_c
+ppa_c + nadh_c + h_c --> ppal_c + nad_c + h2o_c
+ppa_c + nadph_c + h_c --> ppal_c + nadp_c + h2o_c
+ppal_c + nadph_c + h_c --> 1POH_c + nadp_c
+ppcoa_c + nadh_c + h_c --> ppal_c + nad_c + coa_c
+ppcoa_c + nadph_c + h_c --> ppal_c + nadp_c + coa_c
+ppap_c + nadh_c + h_c --> ppal_c + nad_c + pi_c
+sucsal_c --> ppal_c + co2_c
+12ppd__R_c --> ppal_c + h2o_c
+appl_c --> ppal_c + nh4_c
+ghb_c --> 1POH_c + co2_c
+2obut_c --> ppal_c + co2_c
+ppal_0_2500_1_c + nadh_c + h_c --> IPOH_c + nad_c
+12ppd__R_c --> ppal_0_2500_1_c + h2o_c
+ppal_0_2500_1_c + nadph_c + h_c --> IPOH_c + nadp_c
+acac_c + ppcoa_c --> ppal_0_2500_1_c + mmcoa-S_c
+aacoa_c + succ_c --> acac_c + succoa_c
+aacoa_c + ac_c --> acac_c + accoa_c
+aacoa_c + h2o_c --> acac_c + coa_c
+acac_c --> ppal_0_2500_1_c + co2_c
+btal_c + nadh_c + h_c --> 1BOH_c + nad_c
+btcoa_c + nadh_c + h_c --> btal_c + nad_c + coa_c
+btcoa_c + nadph_c + h_c --> btal_c + nadp_c + coa_c
+btal_c + nadph_c + h_c --> 1BOH_c + nadp_c
+but_c + nadh_c + h_c --> btal_c + nad_c + h2o_c
+btcoa_c + succ_c --> but_c + succoa_c
+btcoa_c + ac_c --> but_c + accoa_c
+but_c + nadph_c + h_c --> btal_c + nadp_c + h2o_c
+btcoa_c + h2o_c --> but_c + coa_c
+2kiva_c --> btal_c + co2_c
+btcoa_c + nadh_c + co2_c --> 2kiva_c + nad_c + coa_c
+ppal_0_2222_1_c + nadh_c + h_c --> IBOH_c + nad_c
+3mob_c --> ppal_0_2222_1_c + co2_c
+ppal_0_2222_1_c + nadph_c + h_c --> IBOH_c + nadp_c
+glyc_0_4118_1_c --> IBOH_c + fald_c
+pant__R_0_0001_2_c --> glyc_0_4118_1_c + co2_c
+2dhp_c + nadh_c + h_c --> pant__R_0_0001_2_c + nad_c
+2dhp_c + nadph_c + h_c --> pant__R_0_0001_2_c + nadp_c
+3c4mop_0_3200_1_c + coa_c --> IBOH_c + malcoa_c
+2mcit_0_2941_2_c + o2_c --> 3c4mop_0_3200_1_c + h2o2_c
+2mcit_0_0392_3_c --> 2mcit_0_2941_2_c + co2_c
+2dhp_c + accoa_c + h2o_c --> 2mcit_0_0392_3_c + coa_c
+ppa_0_1875_2_c + nadh_c + h_c --> ppal_0_2222_1_c + nad_c + h2o_c
+23dhmb_0_1212_3_c + o2_c --> ppa_0_1875_2_c + h2o_c + co2_c
+3mob_c + nadh_c + h_c --> 23dhmb_0_1212_3_c + nad_c
+3mob_c + nadph_c + h_c --> 23dhmb_0_1212_3_c + nadp_c
+ppa_0_1875_2_c + nadph_c + h_c --> ppal_0_2222_1_c + nadp_c + h2o_c
+3hppnl_c + nadh_c + h_c --> 13ppd_c + nad_c
+3hpp_c + nadh_c + h_c --> 3hppnl_c + nad_c + h2o_c
+3hpp_c + nadph_c + h_c --> 3hppnl_c + nadp_c + h2o_c
+3hppnl_c + nadph_c + h_c --> 13ppd_c + nadp_c
+ghb_c + o2_c --> 3hppnl_c + h2o_c + co2_c
+etoh_c + h2o_c --> 13ppd_c
+12ppd__R_c --> etoh_c + h2o_c
+mal__D_c --> 13ppd_c + co2_c
+mal__D_c + nadh_c + h_c --> mal__D_c + nad_c
+mal__D_c + nadph_c + h_c --> mal__D_c + nadp_c + h2o_c
+mal__D_c + nadph_c + h_c --> mal__D_c + nadp_c
+mal__D_c --> 3hppnl_c + co2_c
+ppal_c + nadh_c + h_c --> 3hppnl_c + nad_c
+msa_c + nadh_c + h_c --> ppal_c + nad_c + h2o_c
+msa_c + nadph_c + h_c --> ppal_c + nadp_c + h2o_c
+ppal_c + nadph_c + h_c --> 3hppnl_c + nadp_c
+glyald_c --> ppal_c + h2o_c
+ppap_c + nadh_c + h_c --> 3hppnl_c + nad_c + pi_c
+3hpp_c + pi_c --> ppap_c + h2o_c
+ppap_c + nadph_c + h_c --> 3hppnl_c + nadp_c + pi_c
+lald_D_c + nadh_c + h_c --> 23PDO_c + nad_c
+lald_D_c + nadph_c + h_c --> 23PDO_c + nadp_c
+acetol_c + nadh_c + h_c --> 23PDO_c + nad_c
+acetol_c + nadph_c + h_c --> 23PDO_c + nadp_c
+but_0_2778_1_c + nadh_c + h_c --> 14BDO_c + nad_c
+btal_0_1000_2_c + nadh_c + h_c --> but_0_2778_1_c + nad_c
+sucsal_c + nadh_c + h_c --> btal_0_1000_2_c + nad_c + h2o_c
+sucsal_c + nadph_c + h_c --> btal_0_1000_2_c + nadp_c + h2o_c
+btal_0_1000_2_c + nadph_c + h_c --> but_0_2778_1_c + nadp_c
+but_0_2778_1_c + nadph_c + h_c --> 14BDO_c + nadp_c
+4abutn_c + o2_c + h2o_c --> btal_0_1000_2_c + h2o2_c + nh4_c
+btcoa_0_0069_3_c + nadh_c + h_c --> btal_0_1000_2_c + nad_c + coa_c
+succoa_c + nadh_c + h_c --> btcoa_0_0069_3_c + nad_c + h2o_c
+succoa_c + nadph_c + h_c --> btcoa_0_0069_3_c + nadp_c + h2o_c
+btcoa_0_0069_3_c + nadph_c + h_c --> btal_0_1000_2_c + nadp_c + coa_c
+12ppd__R_0_4167_1_c + nadh_c + o2_c --> 14BDO_c + nad_c + h2o_c
+12ppd__R_0_4167_1_c + nadph_c + o2_c --> 14BDO_c + nadp_c + h2o_c
+btcoa_0_0046_2_c + nadh_c + h_c --> but_0_2778_1_c + nad_c + coa_c
+ghb_c + coa_c --> btcoa_0_0046_2_c + h2o_c
+btcoa_0_0046_2_c + nadph_c + h_c --> but_0_2778_1_c + nadp_c + coa_c
+ghb_c + accoa_c --> btcoa_0_0046_2_c + ac_c
+acetol_c + nadh_c + h_c --> 23BDO_c + nad_c
+alac-S_c --> acetol_c + co2_c
+acetol_c + nadph_c + h_c --> 23BDO_c + nadp_c
+btal_0_2500_1_c + nadh_c + h_c --> 3ME1BOH_c + nad_c
+4mop_c --> btal_0_2500_1_c + co2_c
+btal_0_2500_1_c + nadph_c + h_c --> 3ME1BOH_c + nadp_c
+btal_0_2500_1_c + nadh_c + h_c --> 2ME1BOH_c + nad_c
+3mop_c --> btal_0_2500_1_c + co2_c
+btal_0_2500_1_c + nadph_c + h_c --> 2ME1BOH_c + nadp_c
+val_L_c + nad_c + h2o_c --> 2KIVA_c + nadh_c + nh4_c
+val_L_c + o2_c + h2o_c --> 2KIVA_c + h2o2_c + nh4_c
+2dhp_c + thf_c --> 2KIVA_c + mlthf_c + h2o_c
+3c3hmp_0_0652_1_c --> 3HV_c + co2_c
+2obut_c + accoa_c + h2o_c --> 3c3hmp_0_0652_1_c + coa_c
+2mcit_c --> 3c3hmp_0_0652_1_c + co2_c
+glyald_0_4545_1_c + nad_c + h2o_c --> 3HV_c + nadh_c + h_c
+3hhcoa_0_0023_2_c + nadh_c + h_c --> glyald_0_4545_1_c + nad_c + coa_c
+3hhcoa_c + ahcys_c --> 3hhcoa_0_0023_2_c + amet_c
+ppcoa_c + nadh_c + co2_c --> 2KBA_c + nad_c + coa_c
+akg_c --> 2KBA_c + co2_c
+athr_L_c --> 2KBA_c + nh4_c
+aspsa_0_1515_1_c + nad_c + h2o_c --> 2KBA_c + nadh_c + nh4_c
+glu_D_c --> aspsa_0_1515_1_c + co2_c
+aspsa_0_1515_1_c + o2_c + h2o_c --> 2KBA_c + h2o2_c + nh4_c
+3hbcoa_c + succ_c --> 3HB_c + succoa_c
+3hbcoa_c + ac_c --> 3HB_c + accoa_c
+3hbcoa_c + h2o_c --> 3HB_c + coa_c
+acac_c + nadh_c + h_c --> 3HB_c + nad_c
+acac_c + nadph_c + h_c --> 3HB_c + nadp_c
+sucsal_c + nadh_c + h_c --> 4HB_c + nad_c
+sucsal_c + nadph_c + h_c --> 4HB_c + nadp_c
+pacald_c + nadh_c + h_c --> 2PETOH_c + nad_c
+phpyr_c --> pacald_c + co2_c
+pacald_c + nadph_c + h_c --> 2PETOH_c + nadp_c
+4hoxpacd_c --> pacald_c + h2o_c
+34hpp_c --> 4hoxpacd_c + co2_c
+tym_c --> 2PETOH_c + h2o_c
+4hoxpacd_c + nadph_c + h_c --> tym_c + nadp_c
+acryl_c + h2o_c --> 3hpp_c
+4crsol_c --> 

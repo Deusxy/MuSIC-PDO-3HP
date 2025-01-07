@@ -1,0 +1,6 @@
+cobra==0.28.0
+numpy==2.1.0
+matplotlib==3.9.3
+scipy==1.14.0
+pandas==2.2.3
+escher

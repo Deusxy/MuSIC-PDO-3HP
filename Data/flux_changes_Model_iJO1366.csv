@@ -1,0 +1,17 @@
+Reaction ID,Reaction Equation,Flux Change,Pathway,Model Name,Condition
+3hpp_tr,3hpp_e <-> 3hpp_c,0.401694,"{'3hpp_tr': '3hpp_e <-> 3hpp_c', '13ppd_tr': '13ppd_e <-> 13ppd_c', 'EX_13ppd_e': '13ppd_e --> ', 'EX_3hpp_e': '3hpp_e --> '}",Model_iJO1366
+R_Campodonico_45,ac_c + mlthf_c + h2o_c --> 3hpp_c + thf_c,0.715997,[45],Model_iJO1366
+R_Campodonico_46,mal__D_c --> 3hpp_c + co2_c,0.003229,[46 47],Model_iJO1366
+R_Campodonico_46,mal__D_c --> 3hpp_c + co2_c,0.003229,[46 48],Model_iJO1366
+R_Campodonico_46,mal__D_c --> 3hpp_c + co2_c,0.003229,[46 49],Model_iJO1366
+R_Campodonico_46,mal__D_c --> 3hpp_c + co2_c,0.003229,[46 50],Model_iJO1366
+R_Campodonico_46,mal__D_c --> 3hpp_c + co2_c,0.003229,[46 51],Model_iJO1366
+R_Campodonico_52,3hppnl_c + nad_c + h2o_c --> 3hpp_c + nadh_c + h_c,0.453046,[52 53],Model_iJO1366
+R_Campodonico_54,3hppnl_c + nadp_c + h2o_c --> 3hpp_c + nadph_c + h_c,0.490358,[54 53],Model_iJO1366
+R_Campodonico_4,ppcoa_c + o2_c --> b2coa_c + h2o2_c,13.810961,[58  3  4],Model_iJO1366
+R_Campodonico_4,ppcoa_c + o2_c --> b2coa_c + h2o2_c,13.810961,[58  5  4],Model_iJO1366
+R_Campodonico_4,ppcoa_c + o2_c --> b2coa_c + h2o2_c,13.810961,[58  6  4],Model_iJO1366
+R_Campodonico_60,hpyr_c --> glx_c + fald_c,0.006346,[55 56 59 60],Model_iJO1366
+R_Campodonico_60,hpyr_c --> glx_c + fald_c,0.006346,[55 56 61 60],Model_iJO1366
+R_Campodonico_66,2pg_c --> 2pglyc_c + fald_c,0.006346,[55 56 65 66],Model_iJO1366
+R_Campodonico_70,ppcoa_c + o2_c --> acrlcoa_c + h2o2_c,5.010567,[67 69 70],Model_iJO1366

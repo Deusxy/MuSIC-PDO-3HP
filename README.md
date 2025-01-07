@@ -1,4 +1,4 @@
-### Multiscale Analysis of the Sustainable Production of 1,3-PDO and 3HP
+### Multiscale Analysis of the Sustainable Production of 1,3-PDO and 3HP And Others
 
 This repository contains the model, data, and code used for the publication "Multi-scale Exploration of the Technical, Economic, and Environmental Dimensions of Bio-based Chemical Production".
 
