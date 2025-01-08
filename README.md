@@ -5,4 +5,5 @@ This repository contains the model, data, and code used for the publication "Mul
 
 
 Citation: 
-Kai Zhuang and Markus Herrgard. (In Press.) Multi-scale Exploration of the Technical, Economic, and Environmental Dimensions of Bio-based Chemical Production. *Metabolic Engineering*.
+Kai Zhuang and Markus Herrgard. Multi-scale Exploration of the Technical, Economic, and Environmental Dimensions of Bio-based Chemical Production. [https://doi.org/10.1016/j.ymben.2015.05.007]([url](https://doi.org/10.1016/j.ymben.2015.05.007))
+Kai Zhuang, Bhavik R. Bakshi, and Markus J. Herrgård : Multi-scale modeling for sustainable chemical production. [https://doi.org/10.1002/biot.201200272]( https://doi.org/10.1002/biot.201200272)
